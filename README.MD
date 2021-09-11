@@ -1,6 +1,7 @@
 CHATBOT NAME: SABRA
 Requirements of the chatbot:
 A step by step guide and summary of what we need to implement into our chatbot to make it as life-like as possible (includes all 7 points needed to be implemented).
+
 •	Welcome
 •	How can I help you?
 o	FAQ:
@@ -38,69 +39,6 @@ o	Integration with Arabic and French
 
 •	Intents and entities:
 A list of all the intents and entities we are going to program the chatbot with, along with the entity value, synonyms of the entities, and the category.
-Intents	Entity	Entity Value	Synonym	Category
-#CanIskiptoq	Quiz	Quiz	Quiz, test, exam	
-#ES	Platform	Specification	Website, browser, apps, programs	
-#Esarethecoursesenough	DNA	DNA	D-NA, DNA, Digital Nation Africa	
-#EsDoIneedtocomplete	Good	Positive	Great, amazing, good, love, awesome	
-#EsIwanttobegin				
-#Eswhatservicesdoyouprovide				
-#EsWillIbeablecontact				
-#faq_badges				
-#faq_can_answer				
-#faqCanIgetajob				
-#faqCanIlinkmy				
-#faq_cant_answer				
-#faq_dna				
-#faqhowcanIattach				
-#faqHowmanydevices				
-#faqwhatarebadges				
-#faqWhatfeaturesare				
-#fb	Bad	Negative Comment	Sucks, boring, stupid, doesn’t work	
-#fbicantfind				
-#fbIcantunderstand				
-#fbIhavea				
-#fbthiscourse				
-#fbthiswebsite				
-#fbthiswebsiteg				
-#fbwhydoesittake				
-#jg				
-#jgWhatareDNa				
-#jgwherecanI				
-#jgWherecanIcheck				
-#jgwherecanIstart				
-#learningpath				
-#lpCanIgetmore				
-#lpcanIgoto				
-#lpCanIskipto				
-#lpCanIskiptol				
-#lpCanyouexplain				
-#lpCouldIhaveah				
-#morehelp				
-#welcome				
-
-
-
-	Combining intents and entities
-Intent	Alternates	Entities	Action
-			
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 FLOW DIAGRAM
